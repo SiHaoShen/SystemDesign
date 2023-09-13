@@ -102,7 +102,12 @@
 - Cached content is served directly from the load balancer
 - Reduce the demand on servers and provide faster response times
 
+# Load Balancing Algorithms
 
+- Method used to distribute incoming traffic and requests among multiple servers or resources
+- 
+
+## Round Robin
 
 
 
